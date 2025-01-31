@@ -23,6 +23,6 @@ I'm a **BTech graduate (2020–2024) from Bharat Institute of Engineering Techno
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adithya-kammara)  
-📫 **Email:** [Your Email Here]
+📫 **Email:** [adithyakammara13@gmail.com]
 
 🚀 *Let's build, learn, and grow together!*
