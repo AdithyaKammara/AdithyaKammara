@@ -152,7 +152,7 @@ I create **production-ready web applications** with seamless AI integration. My 
 ---
 
 ### 📄 **Resume**
-📎 **[View My Complete Resume](your-resume-link)**
+📎 **[View My Complete Resume](https://drive.google.com/file/d/1w7Og85nJVvlC2c12lfJ6XiUSqKRCU4Yf/view?usp=sharing)**
 
 ---
 
