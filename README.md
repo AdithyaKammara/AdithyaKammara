@@ -1,125 +1,67 @@
-# 👋 Hi, I'm Adithya Kammara
+### 👋 Hi, I'm Adithya Kammara
 
-**Full-Stack Developer | MERN Stack | Generative AI Integration**  
-Bridging practical web development with next-generation AI/ML—ready to transform ideas into impactful, intelligent solutions.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithya%20Kammara-blue?logo=linkedin)](https://linkedin.com/in/adithyakammara)
-[![Twitter](https://img.shields.io/badge/Twitter-@itsadithyak-1DA1F2?logo=twitter)](https://twitter.com/itsadithyak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Now-green)](https://github.com/AdithyaKammara/AdithyaKammara)
-[![Resume](https://img.shields.io/badge/Resume-Download-orange)](https://drive.google.com/file/d/1w7Og85nJVvlC2c12lfJ6XiUSqKRCU4Yf/view?usp=sharing)
+A Full-Stack Developer with a focus on building intelligent, AI-powered web applications. [cite_start]I specialize in the MERN stack and have hands-on experience in integrating Generative AI tools to transform concepts into impactful, deployed solutions[cite: 8, 9].
 
 ---
 
-## 🚀 My Learning Journey
+### 💻 My Technical Stack
 
-**Structured with NxtWave CCBP 4.0 Growth Cycles (2022–2025):**
+Here are some of the technologies I've been working with:
 
-- **Growth Cycle 1:** Static websites—HTML, CSS, Bootstrap  
-  • Built: Tourism/Event sites, foundational UI  
-- **Growth Cycle 2:** Python programming—problem solving  
-  • Focus: Algorithms, code basics  
-- **Growth Cycle 3:** Dynamic web apps—JavaScript, interactivity  
-  • Built: Todos App, real-time chatbots  
-- **Growth Cycle 4:** Databases & Full Stack Foundations—SQL, REST APIs, Flexbox  
-  • Built: Data-driven apps, integrated responsive layouts  
-- **Growth Cycle 5+:** Node.js/Express, advanced React, microservices, developer tools  
-  • In Progress: Authentication, cloud deployment  
-- **Recent Focus:** AI/ML—OpenAI, LangChain, data analysis  
-  • Projects: Generative AI Chatbot, custom NLP tools
+**Languages & Frameworks:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,sql,nodejs,react,express,mongodb,bootstrap" />
+  </a>
+</p>
 
-Each cycle ends with hands-on, deployed projects—see below!
+**AI & Machine Learning:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai" />
+  </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-0062FF?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF6C37?style=for-the-badge&logo=gradio&logoColor=white" />
+</p>
 
----
-
-## 🛠️ Technical Arsenal
-
-**Frontend:**  
-- React.js (hooks, context, state management)  
-- Modern CSS (Flexbox, Grid, Bootstrap)  
-- JavaScript (ES6+, async/await, DOM manipulation)
-
-**Backend & Database:**  
-- Node.js, Express.js (RESTful APIs, middleware)  
-- MongoDB, SQL, data modeling  
-- Authentication, API design, error handling
-
-**AI/ML Integration:**  
-- OpenAI API, LangChain (GPT, conversational workflows)  
-- Gradio, Hugging Face (prototyping, model deployment)  
-- Python (data structures, EDA, statistics)
-
-**Development Workflow:**  
-- Git, GitHub (CI/CD basics, code collaboration)  
-- Google Colab  
-- Responsive Design (mobile-first, cross-browser)
+**Tools & Platforms:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,github" />
+  </a>
+</p>
 
 ---
 
-## 🌟 Featured Projects
+### 🚀 Featured Projects
 
-### 🤖 [Generative AI ChatBot](https://adithyakgenai.ccbp.tech/)
-- **Description:** Multi-modal conversational AI assistant, voice synthesis (OpenAI + PlayHT).
-- **Stack:** Python, OpenAI API, LangChain, Gradio, PlayHT, HTML/CSS
-- **Highlights:** Built during NxtWave AI workshop; integrates GPT, memory, and user-friendly UI.
+#### **Generative AI ChatBot**
 
-### 📝 [Todos Application](https://aditodosapp.ccbp.tech/)
-- **Description:** Full-featured task manager; persistent CRUD, modular architecture.
-- **Stack:** JavaScript, Bootstrap, HTML5/CSS3, LocalStorage
-- **Highlights:** Real-time updates, intuitive UX, data persistence across sessions.
+An AI assistant chatbot built during a Generative AI Workshop. [cite_start]It uses the OpenAI and LangChain frameworks to create conversational flows and integrates voice cloning via PlayHT[cite: 22, 23, 24, 25].
 
-### 🍔 [Food Munch E-commerce](https://github.com/AdithyaKammara/Food-Munch-)
-- **Description:** Modern food ordering platform with responsive grid, embedded multimedia.
-- **Stack:** HTML5, CSS3, Bootstrap, Flexbox
-- **Highlights:** Mobile-first, commercial design thinking, cross-device compatibility.
+* **Technologies:** Python, OpenAI API, LangChain, Gradio, PlayHT
+* **Key Feature:** Integrates GPT APIs and voice synthesis for a multi-modal conversational experience.
 
-### 🌍 [Tourism Discovery Platform](https://github.com/AdithyaKammara/Tourism-Website)
-- **Description:** Interactive travel portal with image carousels, video tours.
-- **Stack:** HTML5, CSS3, Bootstrap, JavaScript
-- **Highlights:** Media-rich experience, smooth transitions, NxtWave project.
+#### **Todos Application**
 
-> **See my [GitHub repos](https://github.com/AdithyaKammara?tab=repositories) for more applications—including learning logs and advanced in-progress builds!**
+A dynamic, full-featured task manager. [cite_start]This project showcases my ability to build responsive web apps with full CRUD functionality using HTML, CSS, and JavaScript[cite: 17, 18, 19].
+
+* **Technologies:** JavaScript, HTML, CSS, Bootstrap
+* **Key Feature:** Implements real-time updates and uses browser local storage for data persistence.
 
 ---
 
-## 📈 Learning & Growth
+### 📈 GitHub Stats
 
-**Completed Mastery:**  
-✅ Frontend Foundations (HTML, CSS, responsive design)  
-✅ JavaScript Proficiency (ES6+, DOM, async code)  
-✅ Python & Algorithms  
-✅ Database Fundamentals (SQL, data modeling)  
-✅ Version Control (Git/GitHub)  
-✅ AI Integration (OpenAI APIs, prompt engineering)
-
-**Currently Advancing:**  
-🔄 React Advanced Patterns & Performance  
-🔄 Node.js Backend (middleware, authentication)  
-🔄 MongoDB & Mongoose  
-🔄 DSA, AI/ML (probabilities, model RAGs)
+![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithyaKammara&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKammara&layout=compact&theme=dark)
 
 ---
 
-## 💡 What Sets Me Apart
+### 🤝 Let's Connect
 
-- **Learning–to–Launch Mindset:** Every skill is cemented by a deployable project—*not just theory*.
-- **Iterative Growth:** Transparent journey, from basics to AI-enabled apps, always leveling up.
-- **Teamwork & Communication:** Collaborative NxtWave hackathons, peer programming, active knowledge sharing.
-
----
-
-## 🤝 Let’s Connect
-
-- 📧 Email: [adithyakammara13@gmail.com](mailto:adithyakammara13@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/adithyakammara](https://linkedin.com/in/adithyakammara)
-- 🐦 Twitter: [@itsadithyak](https://twitter.com/itsadithyak)
-- 📄 Resume: [View/Download](https://drive.google.com/file/d/1w7Og85nJVvlC2c12lfJ6XiUSqKRCU4Yf/view?usp=sharing)
-
-_"Building the future, one commit at a time."_
-
----
-
-<!--
-📸 Add project screenshots/gifs to each repo README
-📝 Contribution Guide: How to run/install, TODO, and roadmap in each project
-🔗 Pin new repos as your portfolio grows
--->
+* **Email:** adithyakammara13@gmail.com
+* **LinkedIn:** [linkedin.com/in/adithyakammara](https://www.linkedin.com/in/adithyakammara)
+* **Resume:** [View/Download Resume](link-to-your-resume-pdf)
