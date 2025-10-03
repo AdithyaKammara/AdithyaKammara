@@ -1,125 +1,79 @@
+
 # Hi there 👋 I'm Adithya Kammara
 
 ## 🚀 Full-Stack Developer | AI Integration Specialist
 
-> Software developer with expertise in full-stack web development and AI-integrated applications. Passionate about building scalable, responsive web solutions using modern technologies and clean code practices.
+> A passionate and results-oriented Full-Stack Developer with a specialization in building and integrating AI-powered applications. My expertise lies in creating scalable, responsive, and user-centric web solutions. I am driven by a desire to solve complex problems and continuously learn and implement the latest technologies in the ever-evolving world of software development.
 
 📍 **Hyderabad, Telangana** | 📧 **adithyakammara13@gmail.com** | 🔗 **[LinkedIn](https://linkedin.com/in/adithyakammara)**
 
 ---
 
-## 🎓 Education & Certification
+## 🛠️ My Tech Stack
 
-**BTech Computer Science Engineering** | Bharat Institute of Engineering and Technology (2020-2024)  
-**NxtWave CCBP 4.0 Certified Developer** | Full-Stack Development Program (Jan 2023 - May 2025)
+Here are the technologies I'm proficient in:
 
----
-
-## 💻 Technical Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Frameworks & Tools
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### AI & APIs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=flat-square&logo=python&logoColor=white)
+| Category | Technologies |
+|---|---|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Frameworks & Libraries** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **AI & Machine Learning** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=python&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-## 🛠️ Featured Projects
+## 🎓 Education & Certifications
 
-### 📝 [Todos Application - Dynamic Task Manager](https://github.com/AdithyaKammara/todosapplication)
-**Technologies:** JavaScript, HTML, CSS, Bootstrap  
-**Key Features:**
-- Full CRUD functionality with real-time updates
-- Local storage integration for data persistence  
-- Responsive UI with Bootstrap components
-- DOM manipulation and event handling
-
-### 🤖 [Generative AI ChatBot](https://github.com/AdithyaKammara/Smart-Assistant)
-**Technologies:** Python, OpenAI API, LangChain, Gradio, PlayHT  
-**Key Features:**
-- Conversational AI with GPT integration
-- Voice cloning and synthesis capabilities
-- Web interface deployment via Gradio
-- Advanced prompt engineering
-
-### 🍕 Food Munch Website
-**Technologies:** HTML, CSS, Bootstrap  
-**Key Features:**
-- Mobile-responsive design for small businesses
-- Product showcase with visual elements
-- CSS Flexbox optimization
-- Bootstrap grid system implementation
-
-### 🏖️ Tourism Website
-**Technologies:** HTML, CSS, Bootstrap  
-**Key Features:**
-- Travel destination showcase platform
-- Image carousels and video integration
-- Mobile-first responsive design
-- CSS box model and flexbox layouts
+*   **B.Tech in Computer Science Engineering** - Bharat Institute of Engineering and Technology (2020-2024)
+*   **Certified Full-Stack Developer** - NxtWave CCBP 4.0 (Jan 2023 - May 2025)
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 Featured Projects
+
+Here are some of the projects I'm proud of:
+
+| Project | Description | Technologies |
+|---|---|---|
+| 📝 **[Todos Application](https://github.com/AdithyaKammara/todosapplication)** | A dynamic task manager with full CRUD functionality and local storage persistence. | JavaScript, HTML, CSS, Bootstrap |
+| 🤖 **[Generative AI ChatBot](https://github.com/AdithyaKammara/Smart-Assistant)** | A conversational AI with voice cloning and synthesis, built with the OpenAI API. | Python, OpenAI, LangChain, Gradio |
+| 🍕 **[Food Munch Website](https://github.com/AdithyaKammara/Food-Munch-)** | A mobile-responsive website for a food business, showcasing products and services. | HTML, CSS, Bootstrap |
+| 🏖️ **[Tourism Website](https://github.com/AdithyaKammara/Tourism-Website)** | A visually appealing platform for showcasing travel destinations. | HTML, CSS, Bootstrap |
+
+---
+
+## 📊 My GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithyaKammara&show_icons=true&theme=default&hide_border=true&bg_color=ffffff)
+[![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdithyaKammara&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/AdithyaKammara)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKammara&layout=compact&theme=default&hide_border=true&bg_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKammara&layout=compact&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/AdithyaKammara)
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 📫 Let's Connect!
 
-✅ **Developer Foundations** - Git, Command Line, Version Control  
-✅ **JavaScript Essentials** - ES6, Async Programming, Error Handling  
-✅ **Responsive Web Design** - Flexbox, Bootstrap Framework  
-✅ **Dynamic Web Applications** - DOM Manipulation, Event Handling  
-✅ **Python Foundations** - Logic Building, Problem Solving  
-✅ **SQL & Databases** - Query Writing, DBMS Concepts  
-✅ **Generative AI Workshop** - OpenAI, LangChain, ChatBot Development
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. Feel free to reach out to me!
 
----
-
-## 🎯 Core Competencies
-
-**Frontend Development:** Responsive UI/UX, Cross-browser Compatibility, Modern CSS  
-**Backend Integration:** API Development, Database Management, Server-side Logic  
-**AI Integration:** OpenAI APIs, Conversational AI, Voice Synthesis  
-**Development Practices:** Version Control, Clean Code, Agile Methodologies  
-**Problem Solving:** Algorithm Design, Debugging, Performance Optimization
-
----
-
-## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyakammara13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyakammara)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdithyaKammara)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919441094555)
+<p align="center">
+  <a href="mailto:adithyakammara13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/adithyakammara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/AdithyaKammara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="tel:+919441094555"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
+</p>
 
 ---
 
 <div align="center">
 
-**💡 Open to Full-Stack Developer opportunities | Remote & On-site**  
-*"Building tomorrow's web solutions with today's cutting-edge technologies"*
+**💡 Open to Full-Stack Developer opportunities | Remote & On-site**
+
+*"Striving to build the web of tomorrow, one line of code at a time."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdithyaKammara&color=0e75b6&style=flat)
 
 </div>
+
