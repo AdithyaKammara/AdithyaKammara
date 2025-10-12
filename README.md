@@ -1,79 +1,89 @@
+# 👋 Hey, I’m Adithya Kammara  
 
-# Hi there 👋 I'm Adithya Kammara
-
-## 🚀 Full-Stack Developer | AI Integration Specialist
-
-> A passionate and results-oriented Full-Stack Developer with a specialization in building and integrating AI-powered applications. My expertise lies in creating scalable, responsive, and user-centric web solutions. I am driven by a desire to solve complex problems and continuously learn and implement the latest technologies in the ever-evolving world of software development.
-
-📍 **Hyderabad, Telangana** | 📧 **adithyakammara13@gmail.com** | 🔗 **[LinkedIn](https://linkedin.com/in/adithyakammara)**
+**Full-Stack Developer (MERN | JavaScript | Python | SQL)**  
+AI & Web App Builder | 15+ Scalable Projects Delivered | REST APIs • Responsive UI • Automation • Problem-Solving  
+📍 Hyderabad, India | 🌐 Open to Remote & Hybrid Roles  
 
 ---
 
-## 🛠️ My Tech Stack
+## 💡 About Me  
 
-Here are the technologies I'm proficient in:
+I’m a developer who loves turning ideas into **fast, functional, and human-centered applications**.  
+From designing responsive UIs to integrating AI workflows, I believe code should *solve problems*, not just pass tests.  
 
-| Category | Technologies |
-|---|---|
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Frameworks & Libraries** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **AI & Machine Learning** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=python&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+I’ve built over **15 projects** — from dynamic task managers to AI-powered chatbots — combining the MERN stack with tools like **LangChain**, **OpenAI API**, and **Streamlit** to deliver smart, production-ready apps.  
 
 ---
 
-## 🎓 Education & Certifications
+## 🧩 What I Build  
 
-*   **B.Tech in Computer Science Engineering** - Bharat Institute of Engineering and Technology (2020-2024)
-*   **Certified Full-Stack Developer** - NxtWave CCBP 4.0 (Jan 2023 - May 2025)
-
----
-
-## 💻 Featured Projects
-
-Here are some of the projects I'm proud of:
-
-| Project | Description | Technologies |
-|---|---|---|
-| 📝 **[Todos Application](https://github.com/AdithyaKammara/todosapplication)** | A dynamic task manager with full CRUD functionality and local storage persistence. | JavaScript, HTML, CSS, Bootstrap |
-| 🤖 **[Generative AI ChatBot](https://github.com/AdithyaKammara/Smart-Assistant)** | A conversational AI with voice cloning and synthesis, built with the OpenAI API. | Python, OpenAI, LangChain, Gradio |
-| 🍕 **[Food Munch Website](https://github.com/AdithyaKammara/Food-Munch-)** | A mobile-responsive website for a food business, showcasing products and services. | HTML, CSS, Bootstrap |
-| 🏖️ **[Tourism Website](https://github.com/AdithyaKammara/Tourism-Website)** | A visually appealing platform for showcasing travel destinations. | HTML, CSS, Bootstrap |
+✅ **Scalable Web Apps** – Clean architecture, responsive design, and seamless performance.  
+✅ **REST APIs & Integrations** – Efficient data flow between frontend & backend systems.  
+✅ **AI Workflows** – LangChain, OpenAI, and automation pipelines that make tools think smarter.  
+✅ **Automation Agents (MCP)** – Bridging AI models with real-world services (LinkedIn, Gmail, Twilio, etc.)  
 
 ---
 
-## 📊 My GitHub Stats
+## 🧠 Featured Projects  
 
-<div align="center">
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| **🚀 Model Context Protocol (MCP) Ecosystem** | Built custom AI agents integrating LinkedIn, Gmail, Railway, and Voice AI tools using MCP. | Python • Streamlit • Twilio • Eleven Labs • APIs |
+| **🤖 Generative AI Chatbot** | Chatbot powered by OpenAI + LangChain for contextual, human-like conversations. | Python • Gradio • LangChain • PlayHT |
+| **✅ Todos Application** | Dynamic CRUD-based task manager with persistent storage and responsive design. | HTML • CSS • JavaScript • Bootstrap |
+| **🍴 Food Munch Website** | A responsive restaurant site built for scalability and UX optimization. | HTML • CSS • JavaScript |
 
-[![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdithyaKammara&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/AdithyaKammara)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKammara&layout=compact&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/AdithyaKammara)
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. Feel free to reach out to me!
-
-<p align="center">
-  <a href="mailto:adithyakammara13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/adithyakammara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/AdithyaKammara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="tel:+919441094555"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
-</p>
+➡️ Explore all my repositories here: [github.com/adithyakammara](https://github.com/adithyakammara)
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack  
 
-**💡 Open to Full-Stack Developer opportunities | Remote & On-site**
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, SQL  
+**AI Tools:** LangChain, OpenAI API, Streamlit, Gradio  
+**Other:** Git & GitHub, REST APIs, Agile Development, Pipedream, Twilio  
 
-*"Striving to build the web of tomorrow, one line of code at a time."*
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdithyaKammara&color=0e75b6&style=flat)
+## 🌍 Experience  
 
-</div>
+**AI Developer Intern – Swecha Telangana** *(May 2025 – Present)*  
+- Developing AI-driven projects and workflow automation tools.  
+- Working on open-source initiatives and scalable deployments.  
 
+**Full-Stack Development Trainee – NxtWave CCBP 4.0** *(Oct 2022 – Aug 2025)*  
+- Built 15+ web apps using MERN, Python, and SQL.  
+- Integrated AI tools, collaborated in agile sprints, and practiced Git version control.  
+
+---
+
+## 🏆 Certifications  
+
+- Developer Foundations – NxtWave  
+- Responsive Web Design using Flexbox – NxtWave  
+- Build Your Own Dynamic Web Application – NxtWave  
+- Generative AI Workshop – NxtWave  
+
+---
+
+## 🧭 My Approach  
+
+> *“Challenges don’t slow me down — they sharpen my edge.”*  
+
+Every project I build has a clear purpose: **impact > output**.  
+I care about user experience, performance, and real-world adaptability — not just completing a checklist.  
+That’s what defines my work ethic and makes my builds stand out.
+
+---
+
+## 📫 Let’s Connect  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/adithyakammara)  
+💻 [Portfolio / GitHub](https://github.com/adithyakammara)  
+📧 [Email](mailto:adithyakammara@gmail.com)
+
+---
+
+⭐ *“Code that solves a problem today should inspire an idea for tomorrow.”*  
