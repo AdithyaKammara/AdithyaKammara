@@ -1,69 +1,56 @@
-Hi there, I'm Adithya Kammara 👋
+<!-- Status -->
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Entry%20Level%20%7C%20Remote%20%2F%20Hybrid%20%2F%20On--site-0078D7?style=flat-square" />
+</p>
 
-Software Engineer / Data Engineer
+## Adithya Kammara
 
-📍 Hyderabad, India | 💼 Open to Entry-Level Roles (Remote / Hybrid / On-site)
+**Software Engineer · Full-Stack & Backend · Hyderabad, India**
 
-🚀 About Me
+I build backend systems and full-stack web apps with a focus on **API integration, data pipelines, and AI-powered tooling**. At Cognizant, I manage large-scale JSON feed pipelines and QA workflows for a Google client — production experience in data contracts, API reliability, and systematic debugging. Outside work, I'm actively shipping side projects to build depth across the full stack.
 
-I am a software engineer focused on building robust backend systems, full-stack web applications, and reliable data pipelines. Currently, at Cognizant, I oversee high-throughput JSON ingestion pipelines and systematic QA operations for a key Google client.
+---
 
-I bridge the gap between complex data workflows and responsive full-stack applications. I love taking raw API endpoints, structuring them into reliable data pipelines, and building intelligent user interfaces around them.
+## Experience
 
-💡 Currently exploring: Advanced LLM orchestrations, API performance optimization, and scalable database design.
+**Process Executive — Software & Data Operations**  
+Cognizant Technology Solutions · *Google Client* · Jul 2024 – Present · Hyderabad
 
-🛠️ Production Experience: Managing data contracts, handling schema validation drift, and systematically debugging large-scale JSON schemas.
+- Manage end-to-end lifecycle of large-scale media content via structured JSON feeds, ensuring data integrity across ingestion pipelines
+- Debug data inconsistencies and run systematic QA checks, reducing integration errors and improving pipeline reliability  
+- Translate platform-specific protocols into documented ingestion workflows, coordinating across product and data teams
 
-🛠️ Tech Stack
+---
 
-💼 Professional Experience
+## Projects
 
-Process Executive (Data & QA Operations) — Cognizant Technology Solutions
+| Project | Stack | What it does |
+|---|---|---|
+| **[ai-ticketing](https://github.com/AdithyaKammara/ai-ticketing)** | Node.js · JavaScript · LLM | AI-assisted support ticket classifier and routing engine. Parses incoming tickets, infers intent, routes to the correct queue — reducing manual triage overhead. |
+| **full-stack-job-portal** | MERN · JWT · REST APIs | End-to-end job listing platform with role-based authentication, full CRUD for listings, and keyword-based search. REST API backend on Express with MongoDB Atlas. |
+| **GenAI ChatBot** | MERN · Generative AI | Conversational AI assistant integrating a generative AI model via API. Maintains session context and streams responses in a React chat UI. |
+| **[Data Analyst Assignment](https://github.com/AdithyaKammara/Data_Analyst_Assignment)** | Python · SQL · pandas | Structured data analysis pipeline: CSV ingestion, SQL aggregation layer, and clean reporting output. Demonstrates ETL fundamentals and data modeling. |
 
-July 2024 – Present | Hyderabad, India (Client: Google)
+---
 
-Data Pipeline Management: Orchestrate end-to-end lifecycle verification of high-volume, structured media data workflows via JSON feed pipelines.
+## Tech Stack
 
-Reliability & QA Engineering: Execute systematic schema validation checks and trace complex API integrations, lowering system-wide processing failures.
+```
+Languages     JavaScript (ES6+) · TypeScript · Python · SQL
+Frontend      React.js · Tailwind CSS
+Backend       Node.js · Express.js · REST APIs
+Database      MongoDB · SQL
+Data          pandas · JSON · ETL pipelines
+Tools         Git · GitHub · Postman · Jupyter
+```
 
-Protocol Translation: Standardize data ingested across highly custom client protocols into reliable, normalized schemas ready for internal system integration.
+---
 
-⚡ Featured Projects
+## Connect
 
-🤖 AI-Assisted Support Ticket Routing Engine
+- **LinkedIn:** [linkedin.com/in/adithyakammara](https://linkedin.com/in/adithyakammara)
+- **Twitter / X:** [@itsadithyak](https://twitter.com/itsadithyak)
+- **GitHub:** [AdithyaKammara](https://github.com/AdithyaKammara)
 
-Tech Stack: Node.js | JavaScript | REST APIs | LLM Integration
-
-The Engineering Challenge: Classic customer support centers lose hours manually categorizing, prioritizing, and assigning incoming support tickets.
-
-The Solution: Engineered a backend engine that consumes incoming raw ticket text, runs validation checks, queries an LLM classifier, and routes the ticket to the correct engineering queue with high confidence score parameters.
-
-Key Outcome: Achieved an automated routing workflow with rapid error fallback mechanisms.
-
-💼 Full-Stack Job Portal Platform
-
-Tech Stack: MongoDB | Express.js | React.js | Node.js (MERN) | JWT | Tailwind CSS
-
-The Engineering Challenge: Creating a secure, multi-role (Job Seeker vs. Employer) portal with real-time responsive data operations and pagination.
-
-The Solution: Developed a secure RESTful API system utilizing JWT authentication stored in HTTP-only cookies, structured route protection middleware, and implemented advanced DB queries for fuzzy keyword matching and state-driven filters.
-
-📊 Automated PlatinumRx Data Pipeline & Analytics
-
-Tech Stack: Python | SQL | pandas | Excel
-
-The Engineering Challenge: Ingesting large, messy CSV-based inventory data sheets and translating them into crisp, relational business insights without data loss.
-
-The Solution: Built automated ETL scripts using pandas to clean, handle NaN values, format timestamps, and automatically map records into standard relational database models with optimized SQL queries.
-
-📊 GitHub Activity & Metrics
-
-📫 Let's Connect!
-
-I am actively interviewing and looking for entry-level Software Engineer, Backend Engineer, or Data Engineering roles. If you are looking for an engineer who knows how to handle raw data, respect API boundaries, and deliver structured features, let's talk!
-
-Email: adithyakammara@gmail.com
-
-LinkedIn: in/adithyakammara
-
-Schedule a Chat: My Portfolio
+Actively interviewing for entry-level software and data engineering roles.
