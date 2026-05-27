@@ -1,62 +1,69 @@
-# Hi, I'm Adithya Kammara 👋
+Hi there, I'm Adithya Kammara 👋
 
-**Software Engineer · Backend & API Integration**
-📍 Hyderabad, India &nbsp;|&nbsp; 🟢 Open to entry-level roles (remote / hybrid / on-site)
+Software Engineer / Data Engineer
 
-I build backend systems and full-stack web apps with a focus on **API integration**, **data pipelines**, and **AI-powered tooling**. At Cognizant, I manage large-scale JSON feed pipelines and QA workflows for a Google client — giving me production-level experience in data contracts, API reliability, and systematic debugging.
+📍 Hyderabad, India | 💼 Open to Entry-Level Roles (Remote / Hybrid / On-site)
 
-I'm actively transitioning into software engineering and shipping projects to close the gap between support work and dev roles.
+🚀 About Me
 
----
+I am a software engineer focused on building robust backend systems, full-stack web applications, and reliable data pipelines. Currently, at Cognizant, I oversee high-throughput JSON ingestion pipelines and systematic QA operations for a key Google client.
 
-## 🚀 Active Projects
+I bridge the gap between complex data workflows and responsive full-stack applications. I love taking raw API endpoints, structuring them into reliable data pipelines, and building intelligent user interfaces around them.
 
-| Project | Stack | Description |
-|---|---|---|
-| [ai-ticketing](https://github.com/AdithyaKammara/ai-ticketing) | Node.js · JavaScript | AI-assisted support ticket classifier and routing engine |
-| [Full-Stack Job Portal](https://github.com/AdithyaKammara) | MERN · JWT · REST APIs | End-to-end job listing platform with auth and search |
-| [GenAI ChatBot](https://github.com/AdithyaKammara) | MERN · Generative AI | Conversational AI assistant built on the MERN stack |
-| [Data Analyst Assignment](https://github.com/AdithyaKammara/Data_Analyst_Assignment) | Python · SQL · pandas | CSV processing, SQL queries, structured reporting |
+💡 Currently exploring: Advanced LLM orchestrations, API performance optimization, and scalable database design.
 
----
+🛠️ Production Experience: Managing data contracts, handling schema validation drift, and systematically debugging large-scale JSON schemas.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-```
-Languages:    JavaScript (ES6+) · TypeScript · Python · SQL · HTML/CSS
-Frontend:     React.js · Tailwind CSS
-Backend:      Node.js · Express.js · REST APIs
-Database:     MongoDB · SQL
-Data:         pandas · JSON · ETL pipelines
-Tools:        Git · GitHub · Postman · VS Code · Jupyter
-```
+💼 Professional Experience
 
----
+Process Executive (Data & QA Operations) — Cognizant Technology Solutions
 
-## 💼 Experience
+July 2024 – Present | Hyderabad, India (Client: Google)
 
-**Process Executive — Cognizant Technology Solutions** · *July 2024 – Present · Hyderabad*
-- Manage end-to-end lifecycle of large-scale media content via structured JSON feeds for a Google client
-- Debug data inconsistencies and run systematic QA checks, reducing integration errors
-- Translate platform-specific protocols into reliable ingestion workflows
+Data Pipeline Management: Orchestrate end-to-end lifecycle verification of high-volume, structured media data workflows via JSON feed pipelines.
 
----
+Reliability & QA Engineering: Execute systematic schema validation checks and trace complex API integrations, lowering system-wide processing failures.
 
-## 📊 GitHub Stats
+Protocol Translation: Standardize data ingested across highly custom client protocols into reliable, normalized schemas ready for internal system integration.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaKammara&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaKammara&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+⚡ Featured Projects
 
----
+🤖 AI-Assisted Support Ticket Routing Engine
 
-## 📫 Connect
+Tech Stack: Node.js | JavaScript | REST APIs | LLM Integration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdithyaKammara-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adithyakammara/)
-[![Email](https://img.shields.io/badge/Email-adithyakammara%40gmail.com-red?style=flat&logo=gmail)](mailto:adithyakammara@gmail.com)
-[![Twitter/X](https://img.shields.io/badge/X-%40itsadithyak-black?style=flat&logo=x)](https://x.com/itsadithyak)
+The Engineering Challenge: Classic customer support centers lose hours manually categorizing, prioritizing, and assigning incoming support tickets.
 
----
+The Solution: Engineered a backend engine that consumes incoming raw ticket text, runs validation checks, queries an LLM classifier, and routes the ticket to the correct engineering queue with high confidence score parameters.
 
-*Actively interviewing for entry-level software and data engineering roles. Let's build something.*
+Key Outcome: Achieved an automated routing workflow with rapid error fallback mechanisms.
+
+💼 Full-Stack Job Portal Platform
+
+Tech Stack: MongoDB | Express.js | React.js | Node.js (MERN) | JWT | Tailwind CSS
+
+The Engineering Challenge: Creating a secure, multi-role (Job Seeker vs. Employer) portal with real-time responsive data operations and pagination.
+
+The Solution: Developed a secure RESTful API system utilizing JWT authentication stored in HTTP-only cookies, structured route protection middleware, and implemented advanced DB queries for fuzzy keyword matching and state-driven filters.
+
+📊 Automated PlatinumRx Data Pipeline & Analytics
+
+Tech Stack: Python | SQL | pandas | Excel
+
+The Engineering Challenge: Ingesting large, messy CSV-based inventory data sheets and translating them into crisp, relational business insights without data loss.
+
+The Solution: Built automated ETL scripts using pandas to clean, handle NaN values, format timestamps, and automatically map records into standard relational database models with optimized SQL queries.
+
+📊 GitHub Activity & Metrics
+
+📫 Let's Connect!
+
+I am actively interviewing and looking for entry-level Software Engineer, Backend Engineer, or Data Engineering roles. If you are looking for an engineer who knows how to handle raw data, respect API boundaries, and deliver structured features, let's talk!
+
+Email: adithyakammara@gmail.com
+
+LinkedIn: in/adithyakammara
+
+Schedule a Chat: My Portfolio
