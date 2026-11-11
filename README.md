@@ -2,12 +2,12 @@
 
 Software engineer in Hyderabad. I build full-stack web apps and AI features, and I care about what happens after the demo: tests, evaluations, CI and accessibility.
 
-By day I'm a **Technical Analyst at Cognizant**, validating JSON and XML content feeds and debugging ingestion issues for a large media platform. Outside work I build the projects below.
+By day I'm a **Process Executive at Cognizant**, validating JSON and XML content feeds and debugging ingestion issues for a large media platform. Outside work I build the projects below.
 
 **Looking for:** SDE-1, full-stack or backend roles in Hyderabad, Bengaluru or remote.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adithyakammara-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyakammara)
-[![Email](https://img.shields.io/badge/Email-adithyakammara%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:adithyakammara@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adithyakammara13%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:adithyakammara13@gmail.com)
 [![X](https://img.shields.io/badge/X-@itsadithyak-000000?logo=x&logoColor=white)](https://twitter.com/itsadithyak)
 
 ---
@@ -83,7 +83,7 @@ A hiring assignment for PlatinumRx: schemas and ten analytical queries for hotel
 
 ## Experience
 
-**Technical Analyst**, Cognizant Technology Solutions · Hyderabad · Jul 2024 – present
+**Process Executive**, Cognizant Technology Solutions · Hyderabad · Jul 2025 – present
 
 - Validate large JSON and XML content feeds for a media platform and keep multi-stage ingestion pipelines clean
 - Trace failures back to schema drift, data-contract mismatches and API response anomalies, and document the fixes
